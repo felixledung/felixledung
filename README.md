@@ -1,8 +1,11 @@
+Hi, my name is Felix Ledung!
 
-Hi, I'm Felix Ledung!
+I am 16 years old and I am from Sweden.
 
-I am 15 years old, and came from Sweden.
+I like to code in HTML, CSS and JavaScript.
 
-I like to code in HTML, CSS, and JavaScript.
+I have just started the Electrical and Energy programme with a focus on Computer and Communication Technology at NTI Gymnasiet in Örebro to immerse myself more in this field.
 
-You could contact me on my discord server, or dm me at discord directly. If you choose to contact me on my discord server, I don't answer directly, but if you contact me directly I answer in a few minutes.
+You can contact me on my discord server or dm me directly on discord. If you contact me on my discord server, I will not reply directly, but if you contact me directly, I will reply within a few minutes.
+
+This text is copyrighted. Copying of this text is prohibited. 
