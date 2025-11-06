@@ -1,6 +1,6 @@
 Hi, my name is Felix Ledung!
 
-I am 16 years old and I am from Sweden.
+I am 17 years old and I am from Sweden.
 
 I like to code in HTML, CSS and JavaScript.
 
